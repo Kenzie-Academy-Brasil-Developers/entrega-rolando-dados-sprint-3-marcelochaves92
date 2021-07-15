@@ -1,0 +1,13 @@
+.bar {
+        background: red; 
+        color: white;
+        width: 22px;
+}
+
+
+#grafico {
+        height: 500px;
+        flex-direction: row;
+        display: flex;
+        justify-content: space-around;
+}
